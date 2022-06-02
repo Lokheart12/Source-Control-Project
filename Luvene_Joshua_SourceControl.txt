@@ -1,0 +1,25 @@
+https://github.com/github/gitignore
+-I believe this is the required repository. Having this shoud help Git to ignore any files that don't need to
+be tracked.
+
+https://github.com/nfrechette/acl-ue4-plugin
+-This one is interesting because of it's uses. I'm interested in making a game in Unreal Engine 5,
+and one of the things that worries me is the size of the game. I want to make a great game that could
+be affordable to lower income families who may have a computer with less available space. Being able  to compress
+animations would go a long way towards reducing the footprint of any game I make.
+
+https://github.com/BenPyton/ProceduralDungeon
+-This one helps create procedural dungeons. If I decided to design an RPG, I can keep the replay value of a game
+higher by making sure no two dungeons are the same.
+
+https://github.com/JanSeliv/Bomber
+-This would be fun to play, but more importantly it'd be fun to open up and see how it works. I have not
+created a fully functional game yet, but reading through other peoples code and potentially even changing 
+aspects of the game could be a good way to learn what to do on my own.
+
+https://github.com/Synock/UE5Inventory
+- I know this is for UE5 where the dungeon generator is for UE4, however this would still be another good tool to 
+look at if I want to create an RPG. I've already got a good idea of how I would build my own inventory system (we
+built a store for a project in one of my previous classes), but this could have other methods that I could implement.
+
+
